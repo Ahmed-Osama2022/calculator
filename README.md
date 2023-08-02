@@ -1,1 +1,3 @@
-# calculator
+# Calculator
+---
+## Simple calculator App
